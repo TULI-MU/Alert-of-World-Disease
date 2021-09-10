@@ -1,0 +1,10 @@
+
+
+
+https://myaccount.google.com/lesssecureapps
+
+Login This Email:
+
+'temail9989@gmail.com';        
+Password = 'naseoboss';  
+ 
